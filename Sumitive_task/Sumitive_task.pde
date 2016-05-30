@@ -1,10 +1,10 @@
-
+//Adds veryables 
 float xPos=200;
 int i=0;
 int moveX = 2; 
 
 void setup() {
-
+//Make Canvis
   size(400, 400);
 }
 
